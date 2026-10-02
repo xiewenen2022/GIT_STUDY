@@ -5,3 +5,4 @@ dist
 *.cer
 *.log
 password.txt
+.DS_store
